@@ -2,6 +2,90 @@
 <p>C++ was designed with a bias toward&nbsp;<a class="mw-redirect" title="System programming" href="https://en.wikipedia.org/wiki/System_programming">system programming</a>&nbsp;and&nbsp;<a title="Embedded software" href="https://en.wikipedia.org/wiki/Embedded_software">embedded</a>, resource-constrained software and large systems, with&nbsp;<a class="mw-redirect" title="Performance (software)" href="https://en.wikipedia.org/wiki/Performance_(software)">performance</a>, efficiency, and flexibility of use as its design highlights.&nbsp;C++ has also been found useful in many other contexts, with key strengths being software infrastructure and resource-constrained applications,&nbsp;including&nbsp;<a title="Application software" href="https://en.wikipedia.org/wiki/Application_software">desktop applications</a>,&nbsp;<a title="Server (computing)" href="https://en.wikipedia.org/wiki/Server_(computing)">servers</a>&nbsp;(e.g.&nbsp;<a title="E-commerce" href="https://en.wikipedia.org/wiki/E-commerce">e-commerce</a>,&nbsp;<a title="Web search engine" href="https://en.wikipedia.org/wiki/Web_search_engine">Web search</a>, or&nbsp;<a title="SQL" href="https://en.wikipedia.org/wiki/SQL">SQL</a>&nbsp;servers), and performance-critical applications (e.g.&nbsp;<a class="mw-redirect" title="Telephone switches" href="https://en.wikipedia.org/wiki/Telephone_switches">telephone switches</a>&nbsp;or&nbsp;<a class="mw-redirect" title="Space probes" href="https://en.wikipedia.org/wiki/Space_probes">space probes</a>).</p>
 <p>C++ is standardized by the&nbsp;<a title="International Organization for Standardization" href="https://en.wikipedia.org/wiki/International_Organization_for_Standardization">International Organization for Standardization</a>&nbsp;(ISO), with the latest standard version ratified and published by ISO in December 2017 as&nbsp;<a href="https://en.wikipedia.org/wiki/C%2B%2B#Standardization"><em>ISO/IEC 14882:2017</em></a>&nbsp;(informally known as&nbsp;<a title="C++17" href="https://en.wikipedia.org/wiki/C%2B%2B17">C++17</a>).&nbsp;The C++ programming language was initially standardized in 1998 as&nbsp;<em>ISO/IEC 14882:1998</em>, which was then amended by the&nbsp;<a title="C++03" href="https://en.wikipedia.org/wiki/C%2B%2B03">C++03</a>,&nbsp;<a title="C++11" href="https://en.wikipedia.org/wiki/C%2B%2B11">C++11</a>&nbsp;and&nbsp;<a title="C++14" href="https://en.wikipedia.org/wiki/C%2B%2B14">C++14</a>&nbsp;standards. The current C++17 standard supersedes these with new features and an enlarged&nbsp;<a href="https://en.wikipedia.org/wiki/C%2B%2B#Standard_library">standard library</a>. Before the initial standardization in 1998, C++ was developed by Danish computer scientist&nbsp;<a title="Bjarne Stroustrup" href="https://en.wikipedia.org/wiki/Bjarne_Stroustrup">Bjarne Stroustrup</a>&nbsp;at&nbsp;<a title="Bell Labs" href="https://en.wikipedia.org/wiki/Bell_Labs">Bell Labs</a>&nbsp;since 1979 as an extension of the&nbsp;<a title="C (programming language)" href="https://en.wikipedia.org/wiki/C_(programming_language)">C language</a>; he wanted an efficient and flexible language similar to C that also provided&nbsp;<a title="High-level programming language" href="https://en.wikipedia.org/wiki/High-level_programming_language">high-level features</a>&nbsp;for program organization.&nbsp;<a title="C++20" href="https://en.wikipedia.org/wiki/C%2B%2B20">C++20</a>&nbsp;is the next planned standard, keeping with the current trend of a new version every three years.</p>
 </br>
+<table class="infobox vevent">
+<tbody>
+<tr>
+<td colspan="2"><a class="image" href="C++_Logo.png"><img src="C++_Logo.png" srcset="C++_Logo.png" alt="ISO C++ Logo.svg" width="150" height="169" data-file-width="306" data-file-height="344" /></a>
+<div>The C++ logo endorsed by Standard C++</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a title="Programming paradigm" href="https://en.wikipedia.org/wiki/Programming_paradigm">Paradigms</a></th>
+<td><a class="mw-redirect" title="Multi-paradigm programming language" href="https://en.wikipedia.org/wiki/Multi-paradigm_programming_language">Multi-paradigm</a>:&nbsp;<a title="Procedural programming" href="https://en.wikipedia.org/wiki/Procedural_programming">procedural</a>,&nbsp;<a title="Functional programming" href="https://en.wikipedia.org/wiki/Functional_programming">functional</a>,&nbsp;<a title="Object-oriented programming" href="https://en.wikipedia.org/wiki/Object-oriented_programming">object-oriented</a>,&nbsp;<a title="Generic programming" href="https://en.wikipedia.org/wiki/Generic_programming">generic</a></td>
+</tr>
+<tr>
+<th scope="row">Family</th>
+<td><a title="C (programming language)" href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="Software design" href="https://en.wikipedia.org/wiki/Software_design">Designed&nbsp;by</a></th>
+<td><a title="Bjarne Stroustrup" href="https://en.wikipedia.org/wiki/Bjarne_Stroustrup">Bjarne Stroustrup</a></td>
+</tr>
+<tr>
+<th scope="row"><a class="mw-redirect" title="Software developer" href="https://en.wikipedia.org/wiki/Software_developer">Developer</a></th>
+<td class="organiser">ISO/IEC JTC1 (Joint Technical Committee 1) / SC22 (Subcommittee 22) / WG21 (Working Group 21)</td>
+</tr>
+<tr>
+<th scope="row">First&nbsp;appeared</th>
+<td>1985<span class="noprint">; 35&nbsp;years ago</span></td>
+</tr>
+<tr>
+<td colspan="2">&nbsp;</td>
+</tr>
+<tr>
+<th scope="row"><a title="Software release life cycle" href="https://en.wikipedia.org/wiki/Software_release_life_cycle">Stable release</a></th>
+<td>
+<div>C++17&nbsp;(ISO/IEC 14882:2017)&nbsp;/ 1&nbsp;December 2017<span class="noprint">; 2 years ago</span></div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a title="Software release life cycle" href="https://en.wikipedia.org/wiki/Software_release_life_cycle">Preview release</a></th>
+<td>
+<div>C++20</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a title="Type system" href="https://en.wikipedia.org/wiki/Type_system">Typing discipline</a></th>
+<td><a class="mw-redirect" title="Static type" href="https://en.wikipedia.org/wiki/Static_type">Static</a>,&nbsp;<a title="Nominal type system" href="https://en.wikipedia.org/wiki/Nominal_type_system">nominative</a>,&nbsp;<a title="Type inference" href="https://en.wikipedia.org/wiki/Type_inference">partially inferred</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="Filename extension" href="https://en.wikipedia.org/wiki/Filename_extension">Filename extensions</a></th>
+<td>.C, .cc, .cpp, .cxx,&nbsp;<span class="nowrap">.c++</span>, .h, .hh, .hpp, .hxx,&nbsp;<span class="nowrap">.h++</span></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a class="external text" href="https://isocpp.org/" rel="nofollow">isocpp<wbr />.org</a></span></td>
+</tr>
+<tr>
+<th colspan="2">Major&nbsp;<a title="Programming language implementation" href="https://en.wikipedia.org/wiki/Programming_language_implementation">implementations</a></th>
+</tr>
+<tr>
+<td colspan="2"><span class="nowraplinks"><a title="Clang" href="https://en.wikipedia.org/wiki/Clang">LLVM Clang</a>,&nbsp;<a title="GNU Compiler Collection" href="https://en.wikipedia.org/wiki/GNU_Compiler_Collection">GCC</a>,&nbsp;<a title="Microsoft Visual C++" href="https://en.wikipedia.org/wiki/Microsoft_Visual_C%2B%2B">Microsoft Visual C++</a>,&nbsp;<a title="C++Builder" href="https://en.wikipedia.org/wiki/C%2B%2BBuilder">Embarcadero C++Builder</a>,&nbsp;<a title="Intel C++ Compiler" href="https://en.wikipedia.org/wiki/Intel_C%2B%2B_Compiler">Intel C++ Compiler</a>,&nbsp;<a class="mw-redirect" title="IBM XL C++" href="https://en.wikipedia.org/wiki/IBM_XL_C%2B%2B">IBM XL C++</a>,&nbsp;<a title="Edison Design Group" href="https://en.wikipedia.org/wiki/Edison_Design_Group">EDG</a></span></td>
+</tr>
+<tr>
+<th colspan="2">Influenced by</th>
+</tr>
+<tr>
+<td colspan="2"><a title="Ada (programming language)" href="https://en.wikipedia.org/wiki/Ada_(programming_language)">Ada</a>,&nbsp;<a title="ALGOL 68" href="https://en.wikipedia.org/wiki/ALGOL_68">ALGOL 68</a>,&nbsp;<a title="C (programming language)" href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a>,&nbsp;<a title="CLU (programming language)" href="https://en.wikipedia.org/wiki/CLU_(programming_language)">CLU</a>,&nbsp;<a title="ML (programming language)" href="https://en.wikipedia.org/wiki/ML_(programming_language)">ML</a>,&nbsp;<a title="Simula" href="https://en.wikipedia.org/wiki/Simula">Simula</a></td>
+</tr>
+<tr>
+<th colspan="2">Influenced</th>
+</tr>
+<tr>
+<td colspan="2"><a title="Ada (programming language)" href="https://en.wikipedia.org/wiki/Ada_(programming_language)">Ada 95</a>,&nbsp;<a title="C Sharp (programming language)" href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a>,<sup id="cite_ref-influenceSharp_1-0" class="reference"><a href="https://en.wikipedia.org/wiki/C%2B%2B#cite_note-influenceSharp-1">[1]</a></sup>&nbsp;<a title="C99" href="https://en.wikipedia.org/wiki/C99">C99</a>,&nbsp;<a title="Chapel (programming language)" href="https://en.wikipedia.org/wiki/Chapel_(programming_language)">Chapel</a>,<sup id="cite_ref-chplspec_2-0" class="reference"><a href="https://en.wikipedia.org/wiki/C%2B%2B#cite_note-chplspec-2">[2]</a></sup>&nbsp;<a title="Clojure" href="https://en.wikipedia.org/wiki/Clojure">Clojure</a>,<sup id="cite_ref-3" class="reference"><a href="https://en.wikipedia.org/wiki/C%2B%2B#cite_note-3">[3]</a></sup>&nbsp;<a title="D (programming language)" href="https://en.wikipedia.org/wiki/D_(programming_language)">D</a>,&nbsp;<a title="Java (programming language)" href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>,<sup id="cite_ref-4" class="reference"><a href="https://en.wikipedia.org/wiki/C%2B%2B#cite_note-4">[4]</a></sup>&nbsp;<a title="Lua (programming language)" href="https://en.wikipedia.org/wiki/Lua_(programming_language)">Lua</a>,&nbsp;<a title="Nim (programming language)" href="https://en.wikipedia.org/wiki/Nim_(programming_language)">Nim</a>,<sup class="noprint Inline-Template Template-Fact">[<em><a title="Wikipedia:Citation needed" href="https://en.wikipedia.org/wiki/Wikipedia:Citation_needed"><span title="This claim needs references to reliable sources. (April 2017)">citation needed</span></a></em>]</sup>&nbsp;<a title="Perl" href="https://en.wikipedia.org/wiki/Perl">Perl</a>,&nbsp;<a title="PHP" href="https://en.wikipedia.org/wiki/PHP">PHP</a>,&nbsp;<a title="Python (programming language)" href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a>,<sup id="cite_ref-5" class="reference"><a href="https://en.wikipedia.org/wiki/C%2B%2B#cite_note-5">[5]</a></sup>&nbsp;<a title="Rust (programming language)" href="https://en.wikipedia.org/wiki/Rust_(programming_language)">Rust</a>,&nbsp;<a title="Seed7" href="https://en.wikipedia.org/wiki/Seed7">Seed7</a></td>
+</tr>
+<tr>
+<td class="hlist" colspan="2">
+<p><a class="image" href="logo.png"><img class="noviewer" src="logo.png" srcset="logo.png" alt="" width="16" height="16" data-file-width="400" data-file-height="400" /></a>&nbsp;<a class="extiw" title="wikibooks:C++ Programming" href="https://en.wikibooks.org/wiki/C%2B%2B_Programming">C++ Programming</a>&nbsp;at Wikibooks</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
 <div class="toctitle" dir="ltr" lang="en"></div>
 <h2>Contents</h2>
 <label class="toctogglelabel" for="toctogglecheckbox"></label></div>
