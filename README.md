@@ -178,7 +178,7 @@
 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(15).pdf" style="text-decoration:none;">Fast dynamic casting</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(16).pdf" style="text-decoration:none;">Practical and Veriable C++ Dynamic Cast for Hard Real-Time Systems</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(16).pdf" style="text-decoration:none;">Practical and Verifiable C++ Dynamic Cast for Hard Real-Time Systems</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(17).pdf" style="text-decoration:none;">A Principled, Complete, and Efficient Representation of C++</a></li>
 
 
