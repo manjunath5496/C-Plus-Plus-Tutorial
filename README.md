@@ -151,6 +151,135 @@
 <div class="thumbcaption">&nbsp;</div>
 </div>
 </div>
+
+
+</br>
+<h2>Publications </h2>
+<ul>
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(1).pdf" style="text-decoration:none;">Abstraction, libraries, and efficiency in C++</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(2).pdf" style="text-decoration:none;">Abstraction and the C++ machine model</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(3).pdf" style="text-decoration:none;">A Brief Look at C++</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(4).pdf" style="text-decoration:none;">Programming and Validation Techniques for Reliable Goal-driven Autonomic Software</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(5).pdf" style="text-decoration:none;">Verification and Semantic Parallelization of Goal-driven Autonomous Software</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(6).pdf" style="text-decoration:none;">C and C++: a Case for Compatibility</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(7).pdf" style="text-decoration:none;">An Overview of the C++ Programming Language</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(8).pdf" style="text-decoration:none;">C++ in 2005 </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(9).pdf" style="text-decoration:none;"> Charles Stark Draper Prize acceptance speech</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(10).pdf" style="text-decoration:none;">Programming with Exceptions</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(11).pdf" style="text-decoration:none;">Foundations of C++</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(12).pdf" style="text-decoration:none;">C and C++: Case Studies in Compatibility</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(13).pdf" style="text-decoration:none;">Exception Safety: Concepts and Techniques</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(14).pdf" style="text-decoration:none;">Exception Handling for C++ </a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(15).pdf" style="text-decoration:none;">Fast dynamic casting</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(16).pdf" style="text-decoration:none;">Practical and Veriable C++ Dynamic Cast for Hard Real-Time Systems</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(17).pdf" style="text-decoration:none;">A Principled, Complete, and Efficient Representation of C++</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(18).pdf" style="text-decoration:none;">Concepts: The Future of Generic Programming</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(19).pdf" style="text-decoration:none;">Evolving a language in and for the real world: C++ 1991-2006</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(20).pdf" style="text-decoration:none;">How to Write a C++ Language Extension Proposal for ANSI-X3J16/ISO-WG21 </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(21).pdf" style="text-decoration:none;">Improving performance and maintainability through refactoring in C++11 </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(22).pdf" style="text-decoration:none;">C++ Dynamic Cast in Autonomous Space Systems</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(23).pdf" style="text-decoration:none;">Understanding and Effectively Preventing the ABA Problem in Descriptor-based Lock-free Designs</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(24).pdf" style="text-decoration:none;">Lock-free Dynamically Resizable Arrays </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(25).pdf" style="text-decoration:none;">A Principled, Complete, and Efficient Representation of C++ </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(26).pdf" style="text- decoration:none;">Model-based Product-Oriented Certification</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(27).pdf" style="text-decoration:none;">Open Multi-Methods for C++</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(28).pdf" style="text-decoration:none;">Five Popular Myths about C++</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(29).pdf" style="text-decoration:none;">Learning Standard C++ as a New Language</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(30).pdf" style="text-decoration:none;">Design and evaluation of C++ open multi-methods</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(31).pdf" style="text-decoration:none;">Runtime Concepts for the C++ Standard Template Library</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(32).pdf" style="text-decoration:none;">Why C++ is not just an Object Oriented Programming Language </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(33).pdf" style="text-decoration:none;">Concepts: Linguistic Support for Generic Programming in C++ </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(34).pdf" style="text- decoration:none;">Scalable Nonblocking Concurrent Objects for Mission Critical Code</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(35).pdf" style="text-decoration:none;">Open and Efficient Type Switch for C++</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(36).pdf" style="text-decoration:none;">Open Pattern Matching for C++ </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(37).pdf" style="text- decoration:none;">Using ownership types to support library aliasing boundaries</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(38).pdf" style="text-decoration:none;">Specifying C++ Concepts</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(39).pdf" style="text-decoration:none;">A brief introduction to C++'s model for type- and resource-safety</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(40).pdf" style="text-decoration:none;">The Design of C++0x</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(41).pdf" style="text-decoration:none;">General Constant Expressions for System Programming Languages</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(42).pdf" style="text-decoration:none;">Minimizing Dependencies within Generic Classes for Faster and Smaller Programs </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(43).pdf" style="text-decoration:none;">Semantically Enhanced Containers for Concurrent Real-Time Systems</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(44).pdf" style="text- decoration:none;">Supporting SELL for High-Performance Computing</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(45).pdf" style="text-decoration:none;">A rationale for semantically enhanced library languages</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(46).pdf" style="text-decoration:none;">Sibling Rivalry: C and C++ </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(47).pdf" style="text- decoration:none;">C and C++: Siblings</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(48).pdf" style="text-decoration:none;">Support for the Evolution of C++ Generic Functions</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(49).pdf" style="text-decoration:none;">Design of Concept Libraries for C++</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(50).pdf" style="text-decoration:none;">Reliable and Efficient Concurrent Synchronization for Embedded Real-Time Software</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(51).pdf" style="text-decoration:none;">Source Code Rejuvenation is not Refactoring</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(52).pdf" style="text-decoration:none;">Programming in an undergraduate CS curriculum </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(53).pdf" style="text-decoration:none;">Software Development for Infrastructure</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(54).pdf" style="text- decoration:none;">Sixteen Ways to Stack a Cat</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(55).pdf" style="text-decoration:none;">FOREWORD: Serving the C++ Community</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(56).pdf" style="text-decoration:none;">A Perspective on ISO C++</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(57).pdf" style="text- decoration:none;">C++ Programming Styles and Libraries</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(58).pdf" style="text-decoration:none;">Electronic Appendix for Untangling the Balancing and Searching of Balanced Binary Search Trees</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(59).pdf" style="text-decoration:none;">What is "Object Oriented Programming"? (1991 revised version)</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(60).pdf" style="text-decoration:none;">What is C++0x?</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(61).pdf" style="text-decoration:none;">Generalizing Overloading for C++2000</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(62).pdf" style="text-decoration:none;">Wrapping C++ Member Function Calls</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(63).pdf" style="text-decoration:none;">What Should We Teach New Software Developers? Why?</a></li>
+</ul>
+</br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p>In 1979,&nbsp;<a title="Bjarne Stroustrup" href="https://en.wikipedia.org/wiki/Bjarne_Stroustrup">Bjarne Stroustrup</a>, a Danish&nbsp;<a title="Computer scientist" href="https://en.wikipedia.org/wiki/Computer_scientist">computer scientist</a>, began work on "<span id="C_with_[[Class_(computer_programming)|Classes]]">C with&nbsp;<a title="Class (computer programming)" href="https://en.wikipedia.org/wiki/Class_(computer_programming)">Classes</a></span>", the predecessor to C++.&nbsp;The motivation for creating a new language originated from Stroustrup's experience in programming for his PhD thesis. Stroustrup found that&nbsp;<a title="Simula" href="https://en.wikipedia.org/wiki/Simula">Simula</a>&nbsp;had features that were very helpful for large software development, but the language was too slow for practical use, while&nbsp;<a title="BCPL" href="https://en.wikipedia.org/wiki/BCPL">BCPL</a>&nbsp;was fast but too low-level to be suitable for large software development. When Stroustrup started working in&nbsp;<a class="mw-redirect" title="AT&amp;T Bell Labs" href="https://en.wikipedia.org/wiki/AT%26T_Bell_Labs">AT&amp;T Bell Labs</a>, he had the problem of analyzing the&nbsp;<a title="Unix" href="https://en.wikipedia.org/wiki/Unix">UNIX</a>&nbsp;<a class="mw-redirect" title="Kernel (computer science)" href="https://en.wikipedia.org/wiki/Kernel_(computer_science)">kernel</a>&nbsp;with respect to&nbsp;<a title="Distributed computing" href="https://en.wikipedia.org/wiki/Distributed_computing">distributed computing</a>. Remembering his Ph.D. experience, Stroustrup set out to enhance the&nbsp;<a title="C (programming language)" href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a>&nbsp;language with&nbsp;<a title="Simula" href="https://en.wikipedia.org/wiki/Simula">Simula</a>-like features.&nbsp;C was chosen because it was general-purpose, fast, portable and widely used. As well as C and Simula's influences, other languages also influenced this new language, including&nbsp;<a title="ALGOL 68" href="https://en.wikipedia.org/wiki/ALGOL_68">ALGOL 68</a>,&nbsp;<a title="Ada (programming language)" href="https://en.wikipedia.org/wiki/Ada_(programming_language)">Ada</a>,&nbsp;<a title="CLU (programming language)" href="https://en.wikipedia.org/wiki/CLU_(programming_language)">CLU</a>&nbsp;and&nbsp;<a title="ML (programming language)" href="https://en.wikipedia.org/wiki/ML_(programming_language)">ML</a>.</p>
 <p>Initially, Stroustrup's "C with Classes" added features to the C compiler, Cpre, including&nbsp;<a title="Class (computer programming)" href="https://en.wikipedia.org/wiki/Class_(computer_programming)">classes</a>,&nbsp;<a class="mw-redirect" title="Derived class" href="https://en.wikipedia.org/wiki/Derived_class">derived classes</a>,&nbsp;<a class="mw-redirect" title="Strong typing" href="https://en.wikipedia.org/wiki/Strong_typing">strong typing</a>,&nbsp;<a class="mw-redirect" title="Inlining" href="https://en.wikipedia.org/wiki/Inlining">inlining</a>&nbsp;and&nbsp;<a title="Default argument" href="https://en.wikipedia.org/wiki/Default_argument">default arguments</a>.</p>
 <p>In 1982, Stroustrup started to develop a successor to C with Classes, which he named "C++" (<code class="mw-highlight" dir="ltr"><span class="o">++</span></code>&nbsp;being the&nbsp;<a class="mw-redirect" title="Increment operator" href="https://en.wikipedia.org/wiki/Increment_operator">increment operator</a>&nbsp;in C) after going through several other names. New features were added, including&nbsp;<a title="Virtual function" href="https://en.wikipedia.org/wiki/Virtual_function">virtual functions</a>, function name and&nbsp;<a title="Operator overloading" href="https://en.wikipedia.org/wiki/Operator_overloading">operator overloading</a>, references, constants, type-safe free-store memory allocation (new/delete), improved type checking, and BCPL style single-line comments with two forward slashes (<code class="mw-highlight" dir="ltr"><span class="c1">//</span></code>). Furthermore, Stroustrup developed a new, standalone compiler for C++,&nbsp;<a title="Cfront" href="https://en.wikipedia.org/wiki/Cfront">Cfront</a>.</p>
