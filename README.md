@@ -609,6 +609,10 @@ int main() {
 
 <ul>
 <li><a href="https://manjunath5496.github.io/c++-quiz/index.html">C++ Quiz</a></li>
+<li><a href="https://www.youtube.com/results?search_query=C%2B%2B+Tutorial">C++ Programming videos</a></li>
+<li><a href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/cg(64).pdf">C++ Interview Questions</a></li>
+	
+	
 </ul>
 
 
