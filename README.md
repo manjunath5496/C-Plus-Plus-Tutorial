@@ -606,11 +606,17 @@ int main() {
 <p>Other complaints may include a lack of&nbsp;<a title="Reflection (computer programming)" href="https://en.wikipedia.org/wiki/Reflection_(computer_programming)">reflection</a>&nbsp;or&nbsp;<a title="Garbage collection (computer science)" href="https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)">garbage collection</a>, long compilation times, perceived&nbsp;<a title="Feature creep" href="https://en.wikipedia.org/wiki/Feature_creep">feature creep</a>,&nbsp;and verbose error messages, particularly from template metaprogramming.</p>
 </br>
 
+
+<ul>
+<li><a href="https://manjunath5496.github.io/c++-quiz/index.html">C++ Quiz</a></li>
+</ul>
+
+
+
+
+
+</br>
 <h2 id="C++ Exercises for Beginners"> C++ Exercises for Beginners </h2>
-
-
-
-
 
 
 # Question 1
