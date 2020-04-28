@@ -44,4 +44,33 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2>Assignments: programming with examples </h2>
 
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th style="text-align: center;" scope="col">ASSIGNMENTS</th>
+<th style="text-align: center;" scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem set 1 (<a href="MIT6_096IAP11_assn01.pdf" data-smd-id="s102">PDF</a>)</td>
+<td>(<a href="MIT6_096IAP11_sol01.pdf" data-smd-id="s103">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 2 (<a href="MIT6_096IAP11_assn02.pdf" data-smd-id="s104">PDF</a>)</td>
+<td>(<a href="MIT6_096IAP11_sol02.pdf" data-smd-id="s105">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 3 (<a href="MIT6_096IAP11_assn03.pdf" data-smd-id="s106">PDF</a>)</td>
+<td>(<a href="MIT6_096IAP11_sol03.pdf" data-smd-id="s107">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 4 (<a href="MIT6_096IAP11_assn04.pdf" data-smd-id="s108">PDF</a>)</td>
+<td>(<a href="MIT6_096IAP11_sol04.pdf" data-smd-id="s109">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
