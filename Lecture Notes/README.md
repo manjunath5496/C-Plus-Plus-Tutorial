@@ -74,3 +74,6 @@
 </tr>
 </tbody>
 </table>
+</br>
+<p>Final project (<a href="MIT6_096IAP11_project.pdf" data-smd-id="s110">PDF</a>)</p>
+</br>
